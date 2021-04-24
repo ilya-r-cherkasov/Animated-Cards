@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Animated Cards
 //
-//  Created by Ilya Cherkasov on 24.04.2021.
+//  Created by Ilya Cherkasov on 13.04.2021.
 //
 
 import UIKit
